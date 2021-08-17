@@ -11,7 +11,7 @@ const config = {
   context: __dirname,
 
   entry: {
-    'armory-component-ui': './src/index.js',
+    'armory-component-ui-addbuff': './src/index.js',
   },
 
   output: {

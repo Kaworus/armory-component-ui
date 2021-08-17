@@ -26,6 +26,7 @@ export { default as Gw2Skin } from './components/Gw2Skin';
 export { default as Gw2Title } from './components/Gw2Title';
 export { default as Gw2GuildUpgrade } from './components/Gw2GuildUpgrade';
 export { default as Gw2Icon } from './components/Gw2Icon';
+export { default as Gw2Buff } from './components/Gw2Buff';
 export { default as Gw2Item } from './components/Gw2Item';
 export { default as Gw2Map } from './components/Gw2Map';
 export { default as Gw2Skill } from './components/Gw2Skill';
